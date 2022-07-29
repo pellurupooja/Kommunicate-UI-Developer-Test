@@ -1,0 +1,16 @@
+This project is aimed at developing an online hotel booking program. The system (HMS) is an online application that can be accessed throughout everywhere. Users logging should be able to register hotel for a certain days..
+
+In our HMS project, A person should be able to
+Search detail of our Hotel
+Register with HMS
+Login with the HMS
+An Admin should be able to
+Login with to the HMS
+View Document
+
+Modules
+Sign-UP
+Sign-IN
+Booking
+Reservation
+
